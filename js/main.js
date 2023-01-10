@@ -173,12 +173,5 @@ addForm.addEventListener("submit", (e)=>{
     middleValueMark(students)
     
 })
+
 renderStudents();
-
-
-
-
-
-
-
-
